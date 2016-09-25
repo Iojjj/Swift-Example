@@ -1,0 +1,5 @@
+github "Hearst-DD/ObjectMapper" ~> 2.0
+github "ReactiveX/RxSwift" "3.0.0-beta.1"
+github "Alamofire/Alamofire" ~> 4.0
+github "Alamofire/AlamofireImage" ~> 3.0
+github "tristanhimmelman/AlamofireObjectMapper" ~> 4.0
